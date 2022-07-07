@@ -4,6 +4,7 @@
 ## 개요
 
 - typescript 및 react를 활용한 todo 리스트 웹앱
+- react-hook-form 연습 프로젝트
   <br>
   <br>
 
