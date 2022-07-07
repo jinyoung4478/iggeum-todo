@@ -31,9 +31,9 @@
     |   theme.ts
     |
     └ components
-    |       CreateToDo.tsx
-    |       ToDo.tsx
-    |       ToDoList.tsx
+           CreateToDo.tsx
+           ToDo.tsx
+           ToDoList.tsx
 ```
   <br>
 <p align="right"><a href="#top">Go to Top</a></p>
